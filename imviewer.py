@@ -3,6 +3,8 @@ import matplotlib.image as mpimg
 import argparse
 import os
 
+!!!
+
 def show_image(image_path):
     """
     Displays an image using Matplotlib.
